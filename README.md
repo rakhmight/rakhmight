@@ -7,7 +7,7 @@
     <a href="https://t.me/rakhimov_diyor">
         <img
         width="40px"
-        src="   https://cdn-icons-png.flaticon.com/512/2111/2111646.png "
+        src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png"
         alt="Telegram"
         />
     </a>
