@@ -119,17 +119,17 @@
 
 <div align="center">
     <img
-    style="height: 170px"
+    style="height: 200px"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakhmight&theme=github_dark"
     alt="General"
     />
     <img
-    style="height: 170px"
+    style="height: 200px"
     src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rakhmight&theme=github_dark"
     alt="Stats"
     />
     <img
-    style="height: 170px"
+    style="height: 200px"
     src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakhmight&theme=github_dark"
     alt="Stats"
     />
