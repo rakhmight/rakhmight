@@ -4,24 +4,10 @@
 </div>
 
 <div align="center">
-    <a href="https://www.instagram.com/rakhmight">
-        <img
-        style="box-shadow: 0 0 5px #c53b5a, 0 0 25px #c53b5a, 0 0 5px #c53b5a, 0 0 10px #c53b5a, 0 0 200px #c53b5a; width: 40px; background-color: #c53b5a; border-radius: 100px;"
-        src="https://cdn-icons-png.flaticon.com/512/4494/4494468.png"
-        alt="Instagram"
-        />
-    </a>
-    <a href="https://vk.com/rakhmight">
-        <img
-        style="box-shadow: 0 0 5px #4065d6, 0 0 25px #4065d6, 0 0 5px #4065d6, 0 0 10px #4065d6, 0 0 200px #4065d6; width: 40px; background-color: #4065d6; border-radius: 100px;"
-        src="https://cdn-icons-png.flaticon.com/512/4494/4494490.png"
-        alt="VK"
-        />
-    </a>
     <a href="https://t.me/rakhimov_diyor">
         <img
-        style="box-shadow: 0 0 5px #039be5, 0 0 25px #039be5, 0 0 5px #039be5, 0 0 10px #039be5, 0 0 200px #039be5; width: 40px; background-color: #039be5; border-radius: 100px;"
-        src="https://cdn-icons-png.flaticon.com/512/2111/2111710.png"
+        width="40px"
+        src="   https://cdn-icons-png.flaticon.com/512/2111/2111646.png "
         alt="Telegram"
         />
     </a>
@@ -129,7 +115,7 @@
     />
 </div>
 
-###
+### Stats
 
 <div align="center">
     <img
@@ -140,6 +126,11 @@
     <img
     style="height: 170px"
     src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rakhmight&theme=github_dark"
+    alt="Stats"
+    />
+    <img
+    style="height: 170px"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakhmight&theme=github_dark"
     alt="Stats"
     />
 </div>
