@@ -3,7 +3,7 @@
     <h4>I position myself as Software engineer</h4>
 </div>
 
-<div style="display: flex; gap: 20px; justify-content: center;">
+<div align="center">
     <a href="https://www.instagram.com/rakhmight">
         <img
         style="box-shadow: 0 0 5px #c53b5a, 0 0 25px #c53b5a, 0 0 5px #c53b5a, 0 0 10px #c53b5a, 0 0 200px #c53b5a; width: 40px; background-color: #c53b5a; border-radius: 100px;"
@@ -36,7 +36,7 @@
 - 📚 I'm learn: JavaScript, PHP, Rust, Python, Go
 
 ### Stack of technology
-<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap">
+<div align="center">
     <img
     style="height: 45px;"
     src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"
@@ -131,20 +131,15 @@
 
 ###
 
-<img
-style="width: 100%"
-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakhmight&theme=github_dark"
-alt="General"
-/>
-<div style="width: 100%; display: flex; gap: 10px; justify-content: space-between">
+<div align="center">
     <img
-    style="width: 48%;"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rakhmight&theme=github_dark"
-    alt="Stats"
+    style="height: 170px"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakhmight&theme=github_dark"
+    alt="General"
     />
     <img
-    style="width: 48%"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakhmight&theme=github_dark"
-    alt="Languages stats"
+    style="height: 170px"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rakhmight&theme=github_dark"
+    alt="Stats"
     />
 </div>
