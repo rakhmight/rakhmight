@@ -138,12 +138,12 @@ alt="General"
 />
 <div style="width: 100%; display: flex; gap: 10px; justify-content: space-between">
     <img
-    style="width: 50%;"
+    style="width: 48%;"
     src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rakhmight&theme=github_dark"
     alt="Stats"
     />
     <img
-    style="width: 50%"
+    style="width: 48%"
     src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakhmight&theme=github_dark"
     alt="Languages stats"
     />
