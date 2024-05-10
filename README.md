@@ -17,7 +17,7 @@
 - 🎨 Frontend development
 - 🛠 Backend development
 - ✉️ Telegram integration (bots API)
-- 🎓 Degree of education: bachelor's degree in law
+- 🎓 Degree of education: bachelor of laws
 - 💬 Languages: English (B1), Russian (native), Uzbek (native)
 - 📚 I'm learn: JavaScript, PHP, Rust, Python, Go
 
